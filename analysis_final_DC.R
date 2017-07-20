@@ -2,8 +2,10 @@
 # ANALYSIS: Beating the odds, Stagnant, Gains, Top/bottom quintiles
 # Original: Patrick Denise
 # Updated: Jose Hernandez
+# Updated: Alton Lu
 # 02/15/17
 # 03/7/17
+# 07/19/17
 
 # (1) "Beating the odds" -- where look at the residuals of a relatively 
 #     simple regression: 
